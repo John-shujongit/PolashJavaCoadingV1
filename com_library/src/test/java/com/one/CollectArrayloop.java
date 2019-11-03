@@ -29,7 +29,6 @@ public class CollectArrayloop {
 
 		System.out.println("=========================");
 
-		// Multi dimentional
 		int q[][] = { { 1, 7, 9, 12, 15 }, { 19, 21, 23, 25, 27 }, { 29, 31, 33, 39, 45 } };
 
 		for (int r = 0; r < 3; r++) {
